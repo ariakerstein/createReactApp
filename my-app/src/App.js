@@ -9,7 +9,7 @@ class App extends Component {
           <Grid>
             <Navbar.Header>
               <Navbar.Brand>
-                <a href="/">Penguin | Dive Deeper</a>
+                <a href="/">Distraqt | Deeper work</a>
               </Navbar.Brand>
               <Navbar.Toggle />
             </Navbar.Header>
@@ -19,13 +19,14 @@ class App extends Component {
           <Grid>
             <h1>Welcome to Distraqt</h1>
             <h2>Do deeper work</h2>
+
             <p>
               <Button
                 bsStyle="success"
                 bsSize="large"
-                href="http://react-bootstrap.github.io/components.html"
+                href="http://www.samuelakerstein.com"
                 target="_blank">
-                View React Bootstrap Docs
+                WORK NOW!
               </Button>
             </p>
           </Grid>
